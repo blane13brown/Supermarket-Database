@@ -28,6 +28,6 @@ employee ID will begin with MGR so that the interface knows if you’re trying t
 employees information or a managers. 
 
 ## User Interface
-Here is a view of our sign-in screen.
+Here is a view of our sign-in screen.<br/>
 ![Sign-in Screen](https://user-images.githubusercontent.com/88754586/191136842-2d491954-a439-449b-abee-4198d2112f35.PNG)
 
