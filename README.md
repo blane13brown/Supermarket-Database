@@ -29,4 +29,5 @@ employees information or a managers.
 
 ## User Interface
 Here is a view of our sign-in screen.
-![sign-in screen](/main/UI_images/DB1.png)
+![Sign-in Screen](https://user-images.githubusercontent.com/88754586/191136842-2d491954-a439-449b-abee-4198d2112f35.PNG)
+
