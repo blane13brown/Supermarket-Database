@@ -31,3 +31,10 @@ employees information or a managers.
 Here is a view of our sign-in screen.<br/>
 ![Sign-in Screen](https://user-images.githubusercontent.com/88754586/191136842-2d491954-a439-449b-abee-4198d2112f35.PNG)
 
+Here is a view of the managers control panel where they can view, edit or delete data from the database.<br/>
+![Manager View](https://user-images.githubusercontent.com/88754586/191137683-e02784e2-cf80-47c9-9986-e05b3ac48b50.PNG)
+
+Here is an example of a manager viewing data.<br/>
+![Viewing Data](https://user-images.githubusercontent.com/88754586/191137742-12983e6c-a976-45d1-97b4-b90fed503f65.PNG)
+
+
